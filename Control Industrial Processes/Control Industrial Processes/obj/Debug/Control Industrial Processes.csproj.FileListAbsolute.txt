@@ -1,0 +1,19 @@
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.config
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.pdb
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\EasyModbus.dll
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csprojAssemblyReference.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Main.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Properties.Resources.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.GenerateResource.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CoreCompileInputs.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.CopyComplete
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.pdb
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Temp.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.csproj.ResolveComReference.cache
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control_Industrial_Processes.Event.resources
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.exe.manifest
+D:\Test4\Control Industrial Processes\Control Industrial Processes\bin\Debug\Control Industrial Processes.application
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.exe.manifest
+D:\Test4\Control Industrial Processes\Control Industrial Processes\obj\Debug\Control Industrial Processes.application
