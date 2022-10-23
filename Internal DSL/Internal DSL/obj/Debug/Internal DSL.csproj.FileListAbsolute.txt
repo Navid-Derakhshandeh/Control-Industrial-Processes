@@ -1,0 +1,9 @@
+D:\Test4\Internal DSL\Internal DSL\bin\Debug\Internal DSL.exe.config
+D:\Test4\Internal DSL\Internal DSL\bin\Debug\Internal DSL.exe
+D:\Test4\Internal DSL\Internal DSL\bin\Debug\Internal DSL.pdb
+D:\Test4\Internal DSL\Internal DSL\bin\Debug\EasyModbus.dll
+D:\Test4\Internal DSL\Internal DSL\obj\Debug\Internal DSL.csprojAssemblyReference.cache
+D:\Test4\Internal DSL\Internal DSL\obj\Debug\Internal DSL.csproj.CoreCompileInputs.cache
+D:\Test4\Internal DSL\Internal DSL\obj\Debug\Internal DSL.csproj.CopyComplete
+D:\Test4\Internal DSL\Internal DSL\obj\Debug\Internal DSL.exe
+D:\Test4\Internal DSL\Internal DSL\obj\Debug\Internal DSL.pdb
